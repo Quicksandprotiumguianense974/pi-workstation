@@ -4,7 +4,7 @@ import { existsSync } from "node:fs";
 import { homedir } from "node:os";
 import { join } from "node:path";
 
-import { getMusicPlayer } from "./music/music-player";
+import { getMusicPlayer } from "./music-player";
 import {
 	getBandcampAccountItems,
 	getBandcampAccountLabel,
@@ -16,7 +16,7 @@ import {
 	searchBandcamp,
 	searchMixcloud,
 	searchYouTube,
-} from "./music/music-sources";
+} from "./music-sources";
 import {
 	addToHistory,
 	addBandcampAccount,
@@ -29,8 +29,8 @@ import {
 	saveLibrary,
 	saveRuntime,
 	toggleFavorite,
-} from "./music/music-store";
-import type { MusicItem, MusicLibrary, MusicRuntimeState, MusicSection, NtsNowPlaying, PlayerSnapshot, AudioLevels } from "./music/music-types";
+} from "./music-store";
+import type { MusicItem, MusicLibrary, MusicRuntimeState, MusicSection, NtsNowPlaying, PlayerSnapshot, AudioLevels } from "./music-types";
 
 
 // ═════════════════════════════════════════════════════════════════════════════
