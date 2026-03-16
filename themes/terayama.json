@@ -1,0 +1,91 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "name": "terayama",
+  "vars": {
+    "bg": "#0C060E",
+    "bg_darker": "#140C12",
+    "fg": "#EDE0CC",
+    "fg_muted": "#9A8A78",
+    "border_light": "#583E48",
+    "border_dim": "#3A2832",
+
+    "kurenai": "#E04848",
+    "chi": "#982020",
+    "bara": "#D06878",
+    "kin": "#D8B868",
+    "kohaku": "#CCA050",
+    "fuji": "#A858A8",
+    "murasaki": "#704080",
+    "koke": "#82A06E",
+    "aoi": "#6080A0",
+    "hotaru": "#D8C888",
+    "tsuki": "#C8B890"
+  },
+  "colors": {
+    "accent": "kurenai",
+    "border": "border_light",
+    "borderAccent": "kurenai",
+    "borderMuted": "border_dim",
+
+    "success": "koke",
+    "error": "kurenai",
+    "warning": "kin",
+    "muted": "fg_muted",
+    "dim": "border_light",
+    "text": "fg",
+    "thinkingText": "fuji",
+
+    "selectedBg": "#221828",
+    "userMessageBg": "#1E1018",
+    "userMessageText": "fg",
+
+    "customMessageBg": "#18101E",
+    "customMessageText": "fg",
+    "customMessageLabel": "bara",
+
+    "toolPendingBg": "#141018",
+    "toolSuccessBg": "#0E1A10",
+    "toolErrorBg": "#1E0C10",
+    "toolTitle": "kohaku",
+    "toolOutput": "fg_muted",
+
+    "mdHeading": "kurenai",
+    "mdLink": "fuji",
+    "mdLinkUrl": "tsuki",
+    "mdCode": "kin",
+    "mdCodeBlock": "fg",
+    "mdCodeBlockBorder": "border_light",
+    "mdQuote": "fuji",
+    "mdQuoteBorder": "bara",
+    "mdHr": "border_dim",
+    "mdListBullet": "bara",
+
+    "toolDiffAdded": "koke",
+    "toolDiffRemoved": "kurenai",
+    "toolDiffContext": "fg_muted",
+
+    "syntaxComment": "fg_muted",
+    "syntaxKeyword": "kurenai",
+    "syntaxFunction": "fuji",
+    "syntaxVariable": "fg",
+    "syntaxString": "kin",
+    "syntaxNumber": "bara",
+    "syntaxType": "koke",
+    "syntaxOperator": "tsuki",
+    "syntaxPunctuation": "border_light",
+
+    "thinkingOff": "bg",
+    "thinkingMinimal": "border_dim",
+    "thinkingLow": "border_light",
+    "thinkingMedium": "fuji",
+    "thinkingHigh": "chi",
+    "thinkingXhigh": "kurenai",
+
+    "bashMode": "kohaku"
+  },
+  "export": {
+    "pageBg": "#0C060E",
+    "cardBg": "#140C12",
+    "infoBg": "#30202A"
+  }
+}

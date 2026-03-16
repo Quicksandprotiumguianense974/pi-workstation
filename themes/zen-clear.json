@@ -1,0 +1,86 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "name": "zen-clear",
+  "vars": {
+    "bg": "#242424",
+    "bg_darker": "#1E1E1E",
+    "fg": "#D8D8D8",
+    "fg_muted": "#8A8A8A",
+    "border_light": "#424242",
+    "border_dim": "#323232",
+    
+    "bamboo": "#A8B490",
+    "rose": "#DCA3A3",
+    "autumn": "#E2C882",
+    "glacier": "#8CD0D3",
+    "aster": "#C3A3C8",
+    "asagi": "#93E0E3"
+  },
+  "colors": {
+    "accent": "bamboo",
+    "border": "border_light",
+    "borderAccent": "glacier",
+    "borderMuted": "border_dim",
+    
+    "success": "bamboo",
+    "error": "rose",
+    "warning": "autumn",
+    "muted": "fg_muted",
+    "dim": "border_light",
+    "text": "fg",
+    "thinkingText": "fg_muted",
+    
+    "selectedBg": "border_dim",
+    "userMessageBg": "bg",
+    "userMessageText": "fg",
+    
+    "customMessageBg": "bg_darker",
+    "customMessageText": "fg",
+    "customMessageLabel": "bamboo",
+    
+    "toolPendingBg": "bg_darker",
+    "toolSuccessBg": "bg_darker",
+    "toolErrorBg": "#2E2424",
+    "toolTitle": "bamboo",
+    "toolOutput": "fg_muted",
+    
+    "mdHeading": "autumn",
+    "mdLink": "glacier",
+    "mdLinkUrl": "fg_muted",
+    "mdCode": "autumn",
+    "mdCodeBlock": "fg",
+    "mdCodeBlockBorder": "bg_darker", 
+    "mdQuote": "fg_muted",
+    "mdQuoteBorder": "border_light",
+    "mdHr": "border_dim",
+    "mdListBullet": "bamboo",
+    
+    "toolDiffAdded": "bamboo",
+    "toolDiffRemoved": "rose",
+    "toolDiffContext": "fg_muted",
+    
+    "syntaxComment": "fg_muted",
+    "syntaxKeyword": "aster",
+    "syntaxFunction": "glacier",
+    "syntaxVariable": "fg",
+    "syntaxString": "bamboo",
+    "syntaxNumber": "rose",
+    "syntaxType": "autumn",
+    "syntaxOperator": "fg_muted",
+    "syntaxPunctuation": "border_light",
+    
+    "thinkingOff": "bg",
+    "thinkingMinimal": "border_dim",
+    "thinkingLow": "border_light",
+    "thinkingMedium": "#5E7C80",
+    "thinkingHigh": "#749B9E",
+    "thinkingXhigh": "glacier",
+    
+    "bashMode": "rose"
+  },
+  "export": {
+    "pageBg": "#242424",
+    "cardBg": "#2B2B2B",
+    "infoBg": "#323232"
+  }
+}

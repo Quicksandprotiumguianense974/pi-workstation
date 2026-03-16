@@ -1,0 +1,86 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "name": "kill-the-past",
+  "vars": {
+    "bg": "#000000",
+    "bg_darker": "#050505",
+    "fg": "#B0C4DE",
+    "fg_muted": "#546A7B",
+    "border_light": "#1A252C",
+    "border_dim": "#0F161A",
+    
+    "static_red": "#FF003C",
+    "lain_green": "#00FF66",
+    "glitch_magenta": "#FF00FF",
+    "pale_blue": "#8FA9C8",
+    "scanline_gray": "#30404D",
+    "crt_white": "#E6F0FA"
+  },
+  "colors": {
+    "accent": "static_red",
+    "border": "border_light",
+    "borderAccent": "static_red",
+    "borderMuted": "border_dim",
+    
+    "success": "lain_green",
+    "error": "static_red",
+    "warning": "glitch_magenta",
+    "muted": "fg_muted",
+    "dim": "scanline_gray",
+    "text": "fg",
+    "thinkingText": "glitch_magenta",
+    
+    "selectedBg": "border_dim",
+    "userMessageBg": "bg",
+    "userMessageText": "crt_white",
+    
+    "customMessageBg": "bg_darker",
+    "customMessageText": "fg",
+    "customMessageLabel": "static_red",
+    
+    "toolPendingBg": "bg_darker",
+    "toolSuccessBg": "#001100",
+    "toolErrorBg": "#1A0000",
+    "toolTitle": "pale_blue",
+    "toolOutput": "fg_muted",
+    
+    "mdHeading": "static_red",
+    "mdLink": "pale_blue",
+    "mdLinkUrl": "scanline_gray",
+    "mdCode": "lain_green",
+    "mdCodeBlock": "crt_white",
+    "mdCodeBlockBorder": "border_light", 
+    "mdQuote": "glitch_magenta",
+    "mdQuoteBorder": "static_red",
+    "mdHr": "scanline_gray",
+    "mdListBullet": "pale_blue",
+    
+    "toolDiffAdded": "lain_green",
+    "toolDiffRemoved": "static_red",
+    "toolDiffContext": "fg_muted",
+    
+    "syntaxComment": "scanline_gray",
+    "syntaxKeyword": "glitch_magenta",
+    "syntaxFunction": "pale_blue",
+    "syntaxVariable": "crt_white",
+    "syntaxString": "lain_green",
+    "syntaxNumber": "static_red",
+    "syntaxType": "pale_blue",
+    "syntaxOperator": "fg_muted",
+    "syntaxPunctuation": "scanline_gray",
+    
+    "thinkingOff": "bg",
+    "thinkingMinimal": "border_dim",
+    "thinkingLow": "scanline_gray",
+    "thinkingMedium": "pale_blue",
+    "thinkingHigh": "glitch_magenta",
+    "thinkingXhigh": "static_red",
+    
+    "bashMode": "glitch_magenta"
+  },
+  "export": {
+    "pageBg": "#000000",
+    "cardBg": "#050505",
+    "infoBg": "#0F161A"
+  }
+}

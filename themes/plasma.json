@@ -1,0 +1,91 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "name": "plasma",
+  "vars": {
+    "void": "#06060C",
+    "abyss": "#0C0C14",
+    "obsidian": "#14141E",
+    "graphite": "#1E1E2C",
+    "slate": "#2E2E40",
+    "steel": "#4A4A66",
+    "ash": "#8888A0",
+    "bone": "#E8E0D4",
+    "plasma": "#00FFD0",
+    "ion": "#00CCFF",
+    "arc": "#6E5CFF",
+    "nova": "#FF2D78",
+    "flare": "#FF6B35",
+    "sol": "#FFE01B",
+    "rad": "#ADFF2F",
+    "pulse": "#FF00AA",
+    "ember": "#FF4444",
+    "frost": "#B0F0FF"
+  },
+  "colors": {
+    "accent": "plasma",
+    "border": "arc",
+    "borderAccent": "nova",
+    "borderMuted": "slate",
+
+    "success": "rad",
+    "error": "ember",
+    "warning": "sol",
+
+    "muted": "ash",
+    "dim": "steel",
+    "text": "bone",
+    "thinkingText": "sol",
+
+    "selectedBg": "#1A1A30",
+    "userMessageBg": "#1E1040",
+    "userMessageText": "#FFF4E8",
+    "customMessageBg": "#0A0E1C",
+    "customMessageText": "bone",
+    "customMessageLabel": "nova",
+
+    "toolPendingBg": "#080E1A",
+    "toolSuccessBg": "#0A1A0E",
+    "toolErrorBg": "#1A0810",
+    "toolTitle": "sol",
+    "toolOutput": "frost",
+
+    "mdHeading": "nova",
+    "mdLink": "ion",
+    "mdLinkUrl": "arc",
+    "mdCode": "plasma",
+    "mdCodeBlock": "bone",
+    "mdCodeBlockBorder": "slate",
+    "mdQuote": "bone",
+    "mdQuoteBorder": "arc",
+    "mdHr": "slate",
+    "mdListBullet": "flare",
+
+    "toolDiffAdded": "rad",
+    "toolDiffRemoved": "ember",
+    "toolDiffContext": "ash",
+
+    "syntaxComment": "#5A5A78",
+    "syntaxKeyword": "arc",
+    "syntaxFunction": "ion",
+    "syntaxVariable": "bone",
+    "syntaxString": "rad",
+    "syntaxNumber": "flare",
+    "syntaxType": "plasma",
+    "syntaxOperator": "#A098B8",
+    "syntaxPunctuation": "ash",
+
+    "thinkingOff": "obsidian",
+    "thinkingMinimal": "#222233",
+    "thinkingLow": "#1E3050",
+    "thinkingMedium": "#1A4455",
+    "thinkingHigh": "#2A2848",
+    "thinkingXhigh": "#3A1830",
+
+    "bashMode": "flare"
+  },
+  "export": {
+    "pageBg": "#06060C",
+    "cardBg": "#0C0C14",
+    "infoBg": "#1A0A1E"
+  }
+}

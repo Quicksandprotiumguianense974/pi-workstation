@@ -1,0 +1,95 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "name": "kanagawa-contrast",
+  "vars": {
+    "bg": "#0E0E10",
+    "panel": "#17171C",
+    "slate": "#2B2B34",
+    "slate2": "#4A4A5A",
+    "paper": "#F5F1E8",
+    "ash": "#B8B2A7",
+    "cyan": "#00E5FF",
+    "blue": "#4DA3FF",
+    "violet": "#A259FF",
+    "magenta": "#FF2E88",
+    "red": "#FF4D4D",
+    "orange": "#FF9F1C",
+    "yellow": "#FFD60A",
+    "green": "#9CFF2E",
+    "lime": "#C6FF00",
+    "teal": "#00F5D4",
+    "userBg": "#2A1240",
+    "customBg": "#121826",
+    "toolPending": "#062B3B",
+    "toolSuccess": "#112B12",
+    "toolError": "#3A0D1F",
+    "selectBg": "#193B57"
+  },
+  "colors": {
+    "accent": "cyan",
+    "border": "violet",
+    "borderAccent": "magenta",
+    "borderMuted": "slate2",
+
+    "success": "green",
+    "error": "red",
+    "warning": "orange",
+
+    "muted": "ash",
+    "dim": "slate2",
+    "text": "paper",
+    "thinkingText": "yellow",
+
+    "selectedBg": "selectBg",
+    "userMessageBg": "userBg",
+    "userMessageText": "#FFF7ED",
+    "customMessageBg": "customBg",
+    "customMessageText": "paper",
+    "customMessageLabel": "magenta",
+
+    "toolPendingBg": "toolPending",
+    "toolSuccessBg": "toolSuccess",
+    "toolErrorBg": "toolError",
+    "toolTitle": "yellow",
+    "toolOutput": "#FFF4D6",
+
+    "mdHeading": "magenta",
+    "mdLink": "cyan",
+    "mdLinkUrl": "blue",
+    "mdCode": "lime",
+    "mdCodeBlock": "paper",
+    "mdCodeBlockBorder": "magenta",
+    "mdQuote": "paper",
+    "mdQuoteBorder": "cyan",
+    "mdHr": "slate2",
+    "mdListBullet": "orange",
+
+    "toolDiffAdded": "green",
+    "toolDiffRemoved": "red",
+    "toolDiffContext": "ash",
+
+    "syntaxComment": "#8C869A",
+    "syntaxKeyword": "violet",
+    "syntaxFunction": "cyan",
+    "syntaxVariable": "paper",
+    "syntaxString": "green",
+    "syntaxNumber": "orange",
+    "syntaxType": "teal",
+    "syntaxOperator": "#FFD6FF",
+    "syntaxPunctuation": "ash",
+
+    "thinkingOff": "slate",
+    "thinkingMinimal": "blue",
+    "thinkingLow": "cyan",
+    "thinkingMedium": "teal",
+    "thinkingHigh": "violet",
+    "thinkingXhigh": "magenta",
+
+    "bashMode": "orange"
+  },
+  "export": {
+    "pageBg": "#0E0E10",
+    "cardBg": "#17171C",
+    "infoBg": "#241522"
+  }
+}

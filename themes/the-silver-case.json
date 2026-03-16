@@ -1,0 +1,89 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "name": "the-silver-case",
+  "vars": {
+    "bg": "#0A0A0C",
+    "bg_darker": "#050505",
+    "bg_lighter": "#141416",
+    "fg": "#F5F0E8",
+    "fg_muted": "#8B8680",
+    "border_light": "#2A2A2C",
+    "border_dim": "#1A1A1C",
+
+    "blood": "#C41E3A",
+    "copper": "#B87333",
+    "gold": "#D4AF37",
+    "silver": "#C0C5CE",
+    "paper": "#E8E0D5",
+    "film": "#8B8680",
+    "stamp": "#8B956D",
+    "case_blue": "#4A5568"
+  },
+  "colors": {
+    "accent": "blood",
+    "border": "border_light",
+    "borderAccent": "copper",
+    "borderMuted": "border_dim",
+
+    "success": "stamp",
+    "error": "blood",
+    "warning": "copper",
+    "muted": "fg_muted",
+    "dim": "film",
+    "text": "fg",
+    "thinkingText": "blood",
+
+    "selectedBg": "bg_lighter",
+    "userMessageBg": "bg",
+    "userMessageText": "paper",
+
+    "customMessageBg": "bg_darker",
+    "customMessageText": "fg",
+    "customMessageLabel": "blood",
+
+    "toolPendingBg": "bg_lighter",
+    "toolSuccessBg": "#0F1A0F",
+    "toolErrorBg": "#1A0A0C",
+    "toolTitle": "case_blue",
+    "toolOutput": "fg_muted",
+
+    "mdHeading": "blood",
+    "mdLink": "case_blue",
+    "mdLinkUrl": "film",
+    "mdCode": "stamp",
+    "mdCodeBlock": "paper",
+    "mdCodeBlockBorder": "border_light",
+    "mdQuote": "copper",
+    "mdQuoteBorder": "gold",
+    "mdHr": "film",
+    "mdListBullet": "case_blue",
+
+    "toolDiffAdded": "stamp",
+    "toolDiffRemoved": "blood",
+    "toolDiffContext": "fg_muted",
+
+    "syntaxComment": "film",
+    "syntaxKeyword": "blood",
+    "syntaxFunction": "case_blue",
+    "syntaxVariable": "paper",
+    "syntaxString": "copper",
+    "syntaxNumber": "gold",
+    "syntaxType": "case_blue",
+    "syntaxOperator": "fg_muted",
+    "syntaxPunctuation": "silver",
+
+    "thinkingOff": "bg",
+    "thinkingMinimal": "border_dim",
+    "thinkingLow": "film",
+    "thinkingMedium": "silver",
+    "thinkingHigh": "copper",
+    "thinkingXhigh": "blood",
+
+    "bashMode": "blood"
+  },
+  "export": {
+    "pageBg": "#0A0A0C",
+    "cardBg": "#050505",
+    "infoBg": "#141416"
+  }
+}

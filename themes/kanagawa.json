@@ -1,0 +1,95 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "name": "kanagawa",
+  "vars": {
+    "sumiInk0": "#16161D",
+    "sumiInk1": "#1F1F28",
+    "sumiInk2": "#2A2A37",
+    "sumiInk3": "#363646",
+    "sumiInk4": "#54546D",
+
+    "fujiWhite": "#DCD7BA",
+    "oldWhite": "#C8C093",
+    "fujiGray": "#727169",
+
+    "wave": "#7E9CD8",
+    "spring": "#7FB4CA",
+    "sakura": "#D27E99",
+    "peach": "#FF9E3B",
+    "carp": "#E46876",
+    "surimiOrange": "#FFA066",
+    "autumnGreen": "#76946A",
+    "springGreen": "#98BB6C",
+    "boatYellow": "#C0A36E",
+    "oniViolet": "#957FB8",
+    "crystal": "#A3D4D5",
+    "dragonBlue": "#658594"
+  },
+  "colors": {
+    "accent": "spring",
+    "border": "sumiInk3",
+    "borderAccent": "wave",
+    "borderMuted": "sumiInk2",
+
+    "success": "springGreen",
+    "error": "carp",
+    "warning": "peach",
+
+    "muted": "fujiGray",
+    "dim": "sumiInk4",
+    "text": "fujiWhite",
+    "thinkingText": "fujiGray",
+
+    "selectedBg": "sumiInk2",
+    "userMessageBg": "#1a1a24",
+    "userMessageText": "fujiWhite",
+    "customMessageBg": "sumiInk1",
+    "customMessageText": "fujiWhite",
+    "customMessageLabel": "oniViolet",
+
+    "toolPendingBg": "#1c1c26",
+    "toolSuccessBg": "#1a2218",
+    "toolErrorBg": "#261a1a",
+    "toolTitle": "spring",
+    "toolOutput": "oldWhite",
+
+    "mdHeading": "boatYellow",
+    "mdLink": "wave",
+    "mdLinkUrl": "dragonBlue",
+    "mdCode": "spring",
+    "mdCodeBlock": "fujiWhite",
+    "mdCodeBlockBorder": "sumiInk3",
+    "mdQuote": "oldWhite",
+    "mdQuoteBorder": "sumiInk4",
+    "mdHr": "sumiInk3",
+    "mdListBullet": "peach",
+
+    "toolDiffAdded": "springGreen",
+    "toolDiffRemoved": "carp",
+    "toolDiffContext": "fujiGray",
+
+    "syntaxComment": "#625e5a",
+    "syntaxKeyword": "oniViolet",
+    "syntaxFunction": "wave",
+    "syntaxVariable": "fujiWhite",
+    "syntaxString": "springGreen",
+    "syntaxNumber": "surimiOrange",
+    "syntaxType": "crystal",
+    "syntaxOperator": "oldWhite",
+    "syntaxPunctuation": "fujiGray",
+
+    "thinkingOff": "sumiInk2",
+    "thinkingMinimal": "sumiInk3",
+    "thinkingLow": "dragonBlue",
+    "thinkingMedium": "wave",
+    "thinkingHigh": "oniViolet",
+    "thinkingXhigh": "sakura",
+
+    "bashMode": "boatYellow"
+  },
+  "export": {
+    "pageBg": "#16161D",
+    "cardBg": "#1F1F28",
+    "infoBg": "#2A2620"
+  }
+}
