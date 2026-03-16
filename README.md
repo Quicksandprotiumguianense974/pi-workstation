@@ -56,45 +56,16 @@ Tokens-per-second display.
 
 ## Installation
 
-Copy the extensions and themes you want into your `~/.pi/agent/` directory:
-
 ```bash
-# Copy all extensions
-cp -r extensions/* ~/.pi/agent/extensions/
-
-# Copy all themes
-cp -r themes/* ~/.pi/agent/themes/
+pi install npm:pi-workstation
 ```
 
-Then add them to your `~/.pi/agent/settings.json`:
+All extensions and themes will be automatically available after installation.
+
+To activate a theme, set it in your `~/.pi/agent/settings.json`:
 
 ```json
 {
-  "extensions": [
-    "+extensions/navi/index.ts",
-    "+extensions/music.ts",
-    "+extensions/knowledge-graph/index.ts",
-    "+extensions/llm-council/index.ts",
-    "+extensions/git.ts",
-    "+extensions/files.ts",
-    "+extensions/project-manager/index.ts",
-    "+extensions/background-tasks.ts",
-    "+extensions/output-guard.ts",
-    "+extensions/tmux-tabs.ts",
-    "+extensions/notify.ts",
-    "+extensions/tps.ts"
-  ],
-  "themes": [
-    "+themes/terayama.json",
-    "+themes/kill-the-past.json",
-    "+themes/the-silver-case.json",
-    "+themes/y2k-cyber.json",
-    "+themes/kanagawa.json",
-    "+themes/kanagawa-contrast.json",
-    "+themes/plasma.json",
-    "+themes/dusty.json",
-    "+themes/zen-clear.json"
-  ],
   "theme": "terayama"
 }
 ```

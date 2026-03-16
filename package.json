@@ -1,0 +1,27 @@
+{
+  "name": "pi-workstation",
+  "version": "0.1.0",
+  "description": "Custom extensions and themes for pi coding agent. Music, Navi, knowledge graph, LLM council, git TUI, file browser, and 9 handcrafted themes.",
+  "keywords": [
+    "pi-package",
+    "pi-extension",
+    "pi-theme",
+    "pi-coding-agent",
+    "terminal",
+    "workstation"
+  ],
+  "author": "marv1nnnnn <marvin1996325@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marv1nnnnn/pi-workstation.git"
+  },
+  "pi": {
+    "extensions": [
+      "./pi-package/extensions"
+    ],
+    "themes": [
+      "./pi-package/themes"
+    ]
+  }
+}
