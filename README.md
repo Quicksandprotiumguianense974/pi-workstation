@@ -4,7 +4,7 @@ Custom extensions and themes for [pi coding agent](https://github.com/badlogic/p
 
 ![screenshot](assets/screenshot.png)
 
-https://github.com/marv1nnnnn/pi-workstation/raw/main/assets/demo.mp4
+![demo](assets/demo.gif)
 
 ## Extensions
 
