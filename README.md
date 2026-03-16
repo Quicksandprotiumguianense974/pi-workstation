@@ -106,6 +106,11 @@ Some extensions require external tools:
 - **Music**: [mpv](https://mpv.io/) and [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - **Files / Git**: [fd](https://github.com/sharkdp/fd) and [rg](https://github.com/BurntSushi/ripgrep) (bundled with pi)
 
+## Known Issues
+
+- **Music flickering** — Playing music can cause screen flickering. Running pi inside tmux resolves this.
+- **Files / Git preview truncation** — When browsing files in `/files` or `/git`, the first N lines of file content may not be displayed.
+
 ## License
 
 MIT
